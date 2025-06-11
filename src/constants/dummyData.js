@@ -1,0 +1,16 @@
+export const CHAPTERS = [
+  {id: 1, name: 'Spot the Error', path: '1'},
+  {id: 2, name: 'Sentence Improvement', path: '2'},
+  {id: 3, name: 'Narration', path: '3'},
+  {id: 4, name: 'Active passive', path: '4'},
+  {id: 5, name: 'Para jumble', path: '5'},
+  {id: 6, name: 'Fill in the blanks', path: '6'},
+  {id: 7, name: 'Cloze test', path: '7'},
+  {id: 8, name: 'Comprehension', path: '8'},
+  {id: 9, name: 'One word substitution', path: '9'},
+  {id: 10, name: 'Idioms', path: '10'},
+  {id: 11, name: 'Synonyms', path: '11'},
+  {id: 12, name: 'Antonyms', path: '12'},
+  {id: 13, name: 'Spelling check', path: '13'},
+  {id: 14, name: 'Homonyms', path: '14'},
+];
